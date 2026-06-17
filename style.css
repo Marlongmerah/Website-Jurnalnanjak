@@ -292,7 +292,7 @@ ul { list-style: none; }
 .hero-bg-img {
   position: absolute;
   inset: 0;
-  background-image: url('Muka.jpg');
+  background-image: url('Muka.jpeg');
   background-size: cover;
   background-position: center;
   opacity: 0.55;
